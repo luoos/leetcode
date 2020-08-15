@@ -14,3 +14,4 @@
 ## Binary Search
 
 1. [29. Divide Two Integers - Medium](1-50.md#29-divide-two-integers---medium)
+1. [34. Find First and Last Position of Element in Sorted Array - Medium](1-50.md#34-Find-First-and-Last-Position-of-Element-in-Sorted-Array---Medium)
