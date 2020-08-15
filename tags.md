@@ -9,3 +9,4 @@
 ## Dynamical Programming
 
 1. [85. Maximal Rectangle - Hard](51-100.md#85-Maximal-Rectangle---Hard)
+1. [221. Maximal Square - Medium](201-250.md#221-Maximal-Square---Medium)
