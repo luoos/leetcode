@@ -20,3 +20,7 @@
 ## Heap
 
 1. [692. Top K Frequent Words - Medium](651-700.md#692-Top-K-Frequent-Words---Medium)
+
+## Stack
+
+1. [20. Valid Parentheses - Easy](1-50.md#20-Valid-Parentheses---Easy)
