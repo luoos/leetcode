@@ -1,5 +1,6 @@
 ## Depth First Search
 
+1. [22. Generate Parentheses - Medium](1-50.md#22-Generate-Parentheses---Medium)
 1. [139. Word Break - Medium](101-150.md#139-word-break---medium)
 
 ## Array
