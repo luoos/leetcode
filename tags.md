@@ -32,3 +32,7 @@
 ## Stack
 
 1. [20. Valid Parentheses - Easy](1-50.md#20-Valid-Parentheses---Easy)
+
+## Sort
+
+1. [912. Sort an Array - Medium](901-950.md#912-Sort-an-Array---Medium)
