@@ -35,6 +35,7 @@
 
 1. [20. Valid Parentheses - Easy](1-50.md#20-Valid-Parentheses---Easy)
 1. [394. Decode String - Medium](351-400.md#394-Decode-String---Medium)
+1. [484. Find Permutation - Medium](451-500.md#484-Find-Permutation---Medium)
 
 ## Sort
 
