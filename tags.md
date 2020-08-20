@@ -48,4 +48,5 @@
 
 ## Tree
 
+1. [105. Construct Binary Tree from Preorder and Inorder Traversal - Medium](101-150.md#105-Construct-Binary-Tree-from-Preorder-and-Inorder--Traversal---Medium)
 1. [297. Serialize and Deserialize Binary Tree - Hard](251-300.md#297-Serialize-and-Deserialize-Binary-Tree---Hard)
