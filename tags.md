@@ -51,5 +51,6 @@
 1. [94. Binary Tree Inorder Traversal - Medium](51-100.md#94-Binary-Tree-Inorder-Traversal---Medium)
 1. [105. Construct Binary Tree from Preorder and Inorder Traversal - Medium](101-150.md#105-Construct-Binary-Tree-from-Preorder-and-Inorder--Traversal---Medium)
 1. [106. Construct Binary Tree from Inorder and Postorder Traversal - Medium](101-150.md#106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal---Medium)
+1. [144. Binary Tree Preorder Traversal - Medium](101-150.md#144-Binary-Tree-Preorder-Traversal---Medium)
 1. [173. Binary Search Tree Iterator - Medium](151-200.md#173-Binary-Search-Tree-Iterator---Medium)
 1. [297. Serialize and Deserialize Binary Tree - Hard](251-300.md#297-Serialize-and-Deserialize-Binary-Tree---Hard)
