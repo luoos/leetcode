@@ -14,6 +14,7 @@
 1. [238. Product of Array Except Self - Medium](201-250.md#238-Product-of-Array-Except-Self---Medium)
 1. [259. 3Sum Smaller - Medium](251-300.md#259-3Sum-Smaller---Medium)
 1. [763. Partition Labels - Medium](751-800.md#763-Partition-Labels---Medium)
+1. [1562. Find Latest Group of Size M - Medium](1551-1600.md#1562-Find-Latest-Group-of-Size-M---Medium)
 
 ## Dynamical Programming
 
