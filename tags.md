@@ -55,6 +55,7 @@
 1. [94. Binary Tree Inorder Traversal - Medium](51-100.md#94-Binary-Tree-Inorder-Traversal---Medium)
 1. [95. Unique Binary Search Trees II - Medium](51-100.md#95-Unique-Binary-Search-Trees-II---Medium)
 1. [96. Unique Binary Search Trees - Medium](51-100.md#96-Unique-Binary-Search-Trees---Medium)
+1. [99. Recover Binary Search Tree - Hard](51-100.md#99-Recover-Binary-Search-Tree---Hard)
 1. [105. Construct Binary Tree from Preorder and Inorder Traversal - Medium](101-150.md#105-Construct-Binary-Tree-from-Preorder-and-Inorder--Traversal---Medium)
 1. [106. Construct Binary Tree from Inorder and Postorder Traversal - Medium](101-150.md#106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal---Medium)
 1. [144. Binary Tree Preorder Traversal - Medium](101-150.md#144-Binary-Tree-Preorder-Traversal---Medium)
