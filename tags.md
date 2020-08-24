@@ -60,6 +60,7 @@
 1. [106. Construct Binary Tree from Inorder and Postorder Traversal - Medium](101-150.md#106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal---Medium)
 1. [117. Populating Next Right Pointers in Each Node II - Medium](101-150.md#117-Populating-Next-Right-Pointers-in-Each-Node-II---Medium)
 1. [124. Binary Tree Maximum Path Sum - Hard](101-150.md#124-Binary-Tree-Maximum-Path-Sum---hard)
+1. [129. Sum Root to Leaf Numbers - Medium](101-150.md#129-Sum-Root-to-Leaf-Numbers---Medium)
 1. [144. Binary Tree Preorder Traversal - Medium](101-150.md#144-Binary-Tree-Preorder-Traversal---Medium)
 1. [145. Binary Tree Postorder Traversal - Hard](101-150.md#145-Binary-Tree-Postorder-Traversal---Hard)
 1. [173. Binary Search Tree Iterator - Medium](151-200.md#173-Binary-Search-Tree-Iterator---Medium)
