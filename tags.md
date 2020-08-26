@@ -72,4 +72,5 @@
 ## Graph
 
 1. [269. Alien Dictionary - Hard](251-300.md#269-Alien-Dictionary---Hard)
+1. [310. Minimum Height Trees - Medium](301-350.md#310-Minimum-Height-Trees---Medium)
 1. [332. Reconstruct Itinerary - Medium](301-350.md#332-Reconstruct-Itinerary---Medium)
