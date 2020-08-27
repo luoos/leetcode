@@ -79,4 +79,5 @@
 1. [332. Reconstruct Itinerary - Medium](301-350.md#332-Reconstruct-Itinerary---Medium)
 1. [399. Evaluate Division - Medium](351-400.md#399-Evaluate-Division---Medium)
 1. [785. Is Graph Bipartite? - Medium](751-800.md#785-Is-Graph-Bipartite---Medium)
+1. [886. Possible Bipartition - Medium](851-900.md#886-Possible-Bipartition---Medium)
 1. [1153. String Transforms Into Another String - Hard](1151-1200.md#1153-String-Transforms-Into-Another-String---Hard)
