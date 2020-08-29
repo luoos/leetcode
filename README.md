@@ -95,3 +95,7 @@
 ## UnionFind
 
 1. [959. Regions Cut By Slashes - Medium](951-1000.md#959-Regions-Cut-By-Slashes---Medium)
+
+## Minimax
+
+1. [843. Guess the Word - Hard](801-850.md#843-Guess-the-Word---Hard)
