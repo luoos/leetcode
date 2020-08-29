@@ -48,6 +48,7 @@
 1. [224. Basic Calculator - Hard](201-250.md#224-Basic-Calculator---Hard)
 1. [394. Decode String - Medium](351-400.md#394-Decode-String---Medium)
 1. [484. Find Permutation - Medium](451-500.md#484-Find-Permutation---Medium)
+1. [946. Validate Stack Sequences - Medium](901-950.md#946-Validate-Stack-Sequencess-Medium)
 
 ## Sort
 
