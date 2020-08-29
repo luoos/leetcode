@@ -19,6 +19,10 @@
 1. [1560. Most Visited Sector in a Circular Track - Easy](1551-1600.md#1560-Most-Visited-Sector-in-a-Circular-Track---Easy)
 1. [1562. Find Latest Group of Size M - Medium](1551-1600.md#1562-Find-Latest-Group-of-Size-M---Medium)
 
+## Sliding Window
+
+1. [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit - Medium](1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit---Medium)
+
 ## Dynamical Programming
 
 1. [32. Longest Valid Parentheses - Hard](1-50.md#32-Longest-Valid-Parentheses---Hard)
