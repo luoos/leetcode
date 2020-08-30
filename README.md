@@ -16,6 +16,7 @@
 1. [239. Sliding Window Maximum - Hard](201-250.md#239-Sliding-Window-Maximum---Hard)
 1. [259. 3Sum Smaller - Medium](251-300.md#259-3Sum-Smaller---Medium)
 1. [560. Subarray Sum Equals K - Medium](551-600.md#560-Subarray-Sum-Equals-K---Medium)
+1. [659. Split Array into Consecutive Subsequences - Medium](651-700.md#659-Split-Array-into-Consecutive-Subsequences-Medium)
 1. [727. Minimum Window Subsequence - Hard](701-750.md#727-Minimum-Window-Subsequence-Hard)
 1. [763. Partition Labels - Medium](751-800.md#763-Partition-Labels---Medium)
 1. [809. Expressive Words - Medium](801-850.md#809-Expressive-Words-Medium)
