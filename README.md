@@ -19,6 +19,7 @@
 1. [727. Minimum Window Subsequence - Hard](701-750.md#727-Minimum-Window-Subsequence-Hard)
 1. [763. Partition Labels - Medium](751-800.md#763-Partition-Labels---Medium)
 1. [809. Expressive Words - Medium](801-850.md#809-Expressive-Words-Medium)
+1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights-Medium)
 1. [1560. Most Visited Sector in a Circular Track - Easy](1551-1600.md#1560-Most-Visited-Sector-in-a-Circular-Track---Easy)
 1. [1562. Find Latest Group of Size M - Medium](1551-1600.md#1562-Find-Latest-Group-of-Size-M---Medium)
 
