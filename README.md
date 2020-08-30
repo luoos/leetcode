@@ -24,6 +24,7 @@
 
 ## Sliding Window
 
+1. [76. Minimum Window Substring - Hard](51-100.md#76-Minimum-Window-Substring-Hard)
 1. [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit - Medium](1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit---Medium)
 
 ## Dynamical Programming
