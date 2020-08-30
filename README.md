@@ -20,6 +20,7 @@
 1. [763. Partition Labels - Medium](751-800.md#763-Partition-Labels---Medium)
 1. [809. Expressive Words - Medium](801-850.md#809-Expressive-Words-Medium)
 1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights-Medium)
+1. [1423. Maximum Points You Can Obtain from Cards - Medium](1401-1450.md#1423-Maximum-Points-You-Can-Obtain-from-Cards-Medium)
 1. [1560. Most Visited Sector in a Circular Track - Easy](1551-1600.md#1560-Most-Visited-Sector-in-a-Circular-Track---Easy)
 1. [1562. Find Latest Group of Size M - Medium](1551-1600.md#1562-Find-Latest-Group-of-Size-M---Medium)
 1. [1566. Detect Pattern of Length M Repeated K or More Times - Easy](1551-1600.md#1566-Detect-Pattern-of-Length-M-Repeated-K-or-More-Times---Easy)
