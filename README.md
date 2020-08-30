@@ -87,6 +87,7 @@
 1. [297. Serialize and Deserialize Binary Tree - Hard](251-300.md#297-Serialize-and-Deserialize-Binary-Tree---Hard)
 1. [543. Diameter of Binary Tree - Easy](501-550.md#543-Diameter-of-Binary-Tree---Easy)
 1. [863. All Nodes Distance K in Binary Tree - Medium](851-900.md#863-All-Nodes-Distance-K-in-Binary-Tree---Medium)
+1. [1376. Time Needed to Inform All Employees - Medium](1351-1400.md#1376-Time-Needed-to-Inform-All-Employees-Medium)
 1. [1569. Number of Ways to Reorder Array to Get Same BST - Hard](1551-1600.md#1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST-Hard)
 
 ## Graph
