@@ -23,6 +23,7 @@
 1. [1560. Most Visited Sector in a Circular Track - Easy](1551-1600.md#1560-Most-Visited-Sector-in-a-Circular-Track---Easy)
 1. [1562. Find Latest Group of Size M - Medium](1551-1600.md#1562-Find-Latest-Group-of-Size-M---Medium)
 1. [1566. Detect Pattern of Length M Repeated K or More Times - Easy](1551-1600.md#1566-Detect-Pattern-of-Length-M-Repeated-K-or-More-Times---Easy)
+1. [1567. Maximum Length of Subarray With Positive Product - Medium](1551-1600.md#1567-Maximum-Length-of-Subarray-With-Positive-Product---Medium)
 
 ## Sliding Window
 
