@@ -30,6 +30,10 @@
 1. [1567. Maximum Length of Subarray With Positive Product - Medium](1551-1600.md#1567-Maximum-Length-of-Subarray-With-Positive-Product---Medium)
 1. [1568. Minimum Number of Days to Disconnect Island - Medium](1551-1600.md#1568-Minimum-Number-of-Days-to-Disconnect-Island---Medium)
 
+## Hash
+
+1. [359. Logger Rate Limiter - Easy](351-400.md#359-Logger-Rate-Limiter-Easy)
+
 ## Sliding Window
 
 1. [76. Minimum Window Substring - Hard](51-100.md#76-Minimum-Window-Substring-Hard)
