@@ -58,6 +58,7 @@
 ## Heap
 
 1. [253. Meeting Rooms II - Medium](251-300.md#253-Meeting-Rooms-II---Medium)
+1. [358. Rearrange String k Distance Apart - Hard](351-400.md#358-Rearrange-String-k-Distance-Apart-Hard)
 1. [692. Top K Frequent Words - Medium](651-700.md#692-Top-K-Frequent-Words---Medium)
 
 ## Stack
