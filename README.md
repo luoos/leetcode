@@ -20,6 +20,7 @@
 1. [659. Split Array into Consecutive Subsequences - Medium](651-700.md#659-Split-Array-into-Consecutive-Subsequences-Medium)
 1. [727. Minimum Window Subsequence - Hard](701-750.md#727-Minimum-Window-Subsequence-Hard)
 1. [763. Partition Labels - Medium](751-800.md#763-Partition-Labels---Medium)
+1. [767. Reorganize String - Medium](751-800.md#767-Reorganize-String---Medium)
 1. [809. Expressive Words - Medium](801-850.md#809-Expressive-Words-Medium)
 1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights-Medium)
 1. [1296. Divide Array in Sets of K Consecutive Numbers - Medium](1251-1300.md#1296-Divide-Array-in-Sets-of-K-Consecutive-Numbers-Medium)
