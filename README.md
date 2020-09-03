@@ -5,6 +5,7 @@
 1. [39. Combination Sum - Medium](1-50.md#39-Combination-Sum---Medium)
 1. [40. Combination Sum II - Medium](1-50.md#40-Combination-Sum-II---Medium)
 1. [139. Word Break - Medium](101-150.md#139-word-break---medium)
+1. [329. Longest Increasing Path in a Matrix - Hard](301-350.md#329-Longest-Increasing-Path-in-a-Matrix-Hard)
 
 ## Array
 
