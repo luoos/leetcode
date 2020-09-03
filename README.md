@@ -24,6 +24,7 @@
 1. [528. Random Pick with Weight - Medium](501-550.md#528-Random-Pick-with-Weight---Medium)
 1. [560. Subarray Sum Equals K - Medium](551-600.md#560-Subarray-Sum-Equals-K---Medium)
 1. [659. Split Array into Consecutive Subsequences - Medium](651-700.md#659-Split-Array-into-Consecutive-Subsequences---Medium)
+1. [722. Remove Comments - Medium](701-750.md#722-Remove-Comments---Medium)
 1. [727. Minimum Window Subsequence - Hard](701-750.md#727-Minimum-Window-Subsequence---Hard)
 1. [763. Partition Labels - Medium](751-800.md#763-Partition-Labels---Medium)
 1. [767. Reorganize String - Medium](751-800.md#767-Reorganize-String---Medium)
