@@ -17,6 +17,7 @@
 1. [16. 3Sum Closest - Medium](1-50.md#16-3Sum-Closest---Medium)
 1. [31. Next Permutation - Medium](1-50.md#31-Next-Permutation---Medium)
 1. [56. Merge Intervals - Medium](51-100.md#56-Merge-Intervals---Medium)
+1. [57. Insert Interval - Hard](51-100.md#57-Insert-Interval---Hard)
 1. [238. Product of Array Except Self - Medium](201-250.md#238-Product-of-Array-Except-Self---Medium)
 1. [239. Sliding Window Maximum - Hard](201-250.md#239-Sliding-Window-Maximum---Hard)
 1. [259. 3Sum Smaller - Medium](251-300.md#259-3Sum-Smaller---Medium)
