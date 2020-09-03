@@ -5,7 +5,7 @@
 1. [39. Combination Sum - Medium](1-50.md#39-Combination-Sum---Medium)
 1. [40. Combination Sum II - Medium](1-50.md#40-Combination-Sum-II---Medium)
 1. [139. Word Break - Medium](101-150.md#139-word-break---medium)
-1. [329. Longest Increasing Path in a Matrix - Hard](301-350.md#329-Longest-Increasing-Path-in-a-Matrix-Hard)
+1. [329. Longest Increasing Path in a Matrix - Hard](301-350.md#329-Longest-Increasing-Path-in-a-Matrix---Hard)
 
 ## Array
 
@@ -18,15 +18,15 @@
 1. [259. 3Sum Smaller - Medium](251-300.md#259-3Sum-Smaller---Medium)
 1. [528. Random Pick with Weight - Medium](501-550.md#528-Random-Pick-with-Weight---Medium)
 1. [560. Subarray Sum Equals K - Medium](551-600.md#560-Subarray-Sum-Equals-K---Medium)
-1. [659. Split Array into Consecutive Subsequences - Medium](651-700.md#659-Split-Array-into-Consecutive-Subsequences-Medium)
-1. [727. Minimum Window Subsequence - Hard](701-750.md#727-Minimum-Window-Subsequence-Hard)
+1. [659. Split Array into Consecutive Subsequences - Medium](651-700.md#659-Split-Array-into-Consecutive-Subsequences---Medium)
+1. [727. Minimum Window Subsequence - Hard](701-750.md#727-Minimum-Window-Subsequence---Hard)
 1. [763. Partition Labels - Medium](751-800.md#763-Partition-Labels---Medium)
 1. [767. Reorganize String - Medium](751-800.md#767-Reorganize-String---Medium)
-1. [809. Expressive Words - Medium](801-850.md#809-Expressive-Words-Medium)
-1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights-Medium)
-1. [1296. Divide Array in Sets of K Consecutive Numbers - Medium](1251-1300.md#1296-Divide-Array-in-Sets-of-K-Consecutive-Numbers-Medium)
-1. [1423. Maximum Points You Can Obtain from Cards - Medium](1401-1450.md#1423-Maximum-Points-You-Can-Obtain-from-Cards-Medium)
-1. [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum - Medium](1451-1500.md#1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum-Medium)
+1. [809. Expressive Words - Medium](801-850.md#809-Expressive-Words---Medium)
+1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights---Medium)
+1. [1296. Divide Array in Sets of K Consecutive Numbers - Medium](1251-1300.md#1296-Divide-Array-in-Sets-of-K-Consecutive-Numbers---Medium)
+1. [1423. Maximum Points You Can Obtain from Cards - Medium](1401-1450.md#1423-Maximum-Points-You-Can-Obtain-from-Cards---Medium)
+1. [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum - Medium](1451-1500.md#1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum---Medium)
 1. [1560. Most Visited Sector in a Circular Track - Easy](1551-1600.md#1560-Most-Visited-Sector-in-a-Circular-Track---Easy)
 1. [1562. Find Latest Group of Size M - Medium](1551-1600.md#1562-Find-Latest-Group-of-Size-M---Medium)
 1. [1566. Detect Pattern of Length M Repeated K or More Times - Easy](1551-1600.md#1566-Detect-Pattern-of-Length-M-Repeated-K-or-More-Times---Easy)
@@ -35,21 +35,22 @@
 
 ## Hash
 
-1. [359. Logger Rate Limiter - Easy](351-400.md#359-Logger-Rate-Limiter-Easy)
+1. [359. Logger Rate Limiter - Easy](351-400.md#359-Logger-Rate-Limiter---Easy)
 
 ## Sliding Window
 
-1. [76. Minimum Window Substring - Hard](51-100.md#76-Minimum-Window-Substring-Hard)
+1. [76. Minimum Window Substring - Hard](51-100.md#76-Minimum-Window-Substring---Hard)
 1. [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit - Medium](1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit---Medium)
 
 ## Dynamical Programming
 
 1. [32. Longest Valid Parentheses - Hard](1-50.md#32-Longest-Valid-Parentheses---Hard)
-1. [72. Edit Distance - Hard](51-100.md#72-Edit-Distance-Hard)
+1. [72. Edit Distance - Hard](51-100.md#72-Edit-Distance---Hard)
 1. [85. Maximal Rectangle - Hard](51-100.md#85-Maximal-Rectangle---Hard)
 1. [91. Decode Ways - Medium](51-100.md#91-Decode-Ways---Medium)
 1. [221. Maximal Square - Medium](201-250.md#221-Maximal-Square---Medium)
 1. [494. Target Sum - Medium](451-500.md#494-Target-Sum---Medium)
+1. [1048. Longest String Chain - Medium](1001-1050.md#1048-Longest-String-Chain---Medium)
 1. [1049. Last Stone Weight II - Medium](1001-1050.md#1049-Last-Stone-Weight-II---Medium)
 
 ## Binary Search
@@ -60,7 +61,7 @@
 ## Heap
 
 1. [253. Meeting Rooms II - Medium](251-300.md#253-Meeting-Rooms-II---Medium)
-1. [358. Rearrange String k Distance Apart - Hard](351-400.md#358-Rearrange-String-k-Distance-Apart-Hard)
+1. [358. Rearrange String k Distance Apart - Hard](351-400.md#358-Rearrange-String-k-Distance-Apart---Hard)
 1. [621. Task Scheduler - Medium](601-650.md#621-Task-Scheduler---Medium)
 1. [692. Top K Frequent Words - Medium](651-700.md#692-Top-K-Frequent-Words---Medium)
 
@@ -70,7 +71,7 @@
 1. [224. Basic Calculator - Hard](201-250.md#224-Basic-Calculator---Hard)
 1. [394. Decode String - Medium](351-400.md#394-Decode-String---Medium)
 1. [484. Find Permutation - Medium](451-500.md#484-Find-Permutation---Medium)
-1. [946. Validate Stack Sequences - Medium](901-950.md#946-Validate-Stack-Sequencess-Medium)
+1. [946. Validate Stack Sequences - Medium](901-950.md#946-Validate-Stack-Sequencess---Medium)
 
 ## Sort
 
@@ -99,8 +100,8 @@
 1. [297. Serialize and Deserialize Binary Tree - Hard](251-300.md#297-Serialize-and-Deserialize-Binary-Tree---Hard)
 1. [543. Diameter of Binary Tree - Easy](501-550.md#543-Diameter-of-Binary-Tree---Easy)
 1. [863. All Nodes Distance K in Binary Tree - Medium](851-900.md#863-All-Nodes-Distance-K-in-Binary-Tree---Medium)
-1. [1376. Time Needed to Inform All Employees - Medium](1351-1400.md#1376-Time-Needed-to-Inform-All-Employees-Medium)
-1. [1569. Number of Ways to Reorder Array to Get Same BST - Hard](1551-1600.md#1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST-Hard)
+1. [1376. Time Needed to Inform All Employees - Medium](1351-1400.md#1376-Time-Needed-to-Inform-All-Employees---Medium)
+1. [1569. Number of Ways to Reorder Array to Get Same BST - Hard](1551-1600.md#1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST---Hard)
 
 ## Graph
 
@@ -110,10 +111,10 @@
 1. [310. Minimum Height Trees - Medium](301-350.md#310-Minimum-Height-Trees---Medium)
 1. [332. Reconstruct Itinerary - Medium](301-350.md#332-Reconstruct-Itinerary---Medium)
 1. [399. Evaluate Division - Medium](351-400.md#399-Evaluate-Division---Medium)
-1. [444. Sequence Reconstruction - Medium](401-450.md#444-Sequence-Reconstruction-Medium)
+1. [444. Sequence Reconstruction - Medium](401-450.md#444-Sequence-Reconstruction---Medium)
 1. [785. Is Graph Bipartite? - Medium](751-800.md#785-Is-Graph-Bipartite---Medium)
 1. [886. Possible Bipartition - Medium](851-900.md#886-Possible-Bipartition---Medium)
-1. [1110. Delete Nodes And Return Forest - Medium](1101-1150.md#1110-Delete-Nodes-And-Return-Forest-Medium)
+1. [1110. Delete Nodes And Return Forest - Medium](1101-1150.md#1110-Delete-Nodes-And-Return-Forest---Medium)
 1. [1153. String Transforms Into Another String - Hard](1151-1200.md#1153-String-Transforms-Into-Another-String---Hard)
 
 ## UnionFind
