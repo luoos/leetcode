@@ -10,6 +10,7 @@
 ## Breadth First Search
 
 1. [1197. Minimum Knight Moves - Medium](1151-1200.md#1197-Minimum-Knight-Moves---Medium)
+1. [1293. Shortest Path in a Grid with Obstacles Elimination - Hard](1251-1300.md#1293-Shortest-Path-in-a-Grid-with-Obstacles-Elimination---Hard)
 
 ## Array
 
