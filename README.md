@@ -9,6 +9,7 @@
 
 ## Breadth First Search
 
+1. [752. Open the Lock - Medium](751-800.md#752-Open-the-Lock---Medium)
 1. [1197. Minimum Knight Moves - Medium](1151-1200.md#1197-Minimum-Knight-Moves---Medium)
 1. [1293. Shortest Path in a Grid with Obstacles Elimination - Hard](1251-1300.md#1293-Shortest-Path-in-a-Grid-with-Obstacles-Elimination---Hard)
 
