@@ -46,6 +46,7 @@
 1. [1568. Minimum Number of Days to Disconnect Island - Medium](1551-1600.md#1568-Minimum-Number-of-Days-to-Disconnect-Island---Medium)
 1. [1576. Replace All ?'s to Avoid Consecutive Repeating Characters - Easy](1551-1600.md#1576-replace-all-s-to-avoid-consecutive-repeating-characters---easy)
 1. [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers - Medium](1551-1600.md#1577-Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers---Medium)
+1. [1578. Minimum Deletion Cost to Avoid Repeating Letters - Medium](1551-1600.md#1578-Minimum-Deletion-Cost-to-Avoid-Repeating-Letters---Medium)
 
 ## Hash
 
