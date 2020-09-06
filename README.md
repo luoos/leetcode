@@ -142,6 +142,7 @@
 ## UnionFind
 
 1. [959. Regions Cut By Slashes - Medium](951-1000.md#959-Regions-Cut-By-Slashes---Medium)
+1. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable - Hard](1551-1600.md#1579-Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable---Hard)
 
 ## Minimax
 
