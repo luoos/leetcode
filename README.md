@@ -45,6 +45,7 @@
 1. [1567. Maximum Length of Subarray With Positive Product - Medium](1551-1600.md#1567-Maximum-Length-of-Subarray-With-Positive-Product---Medium)
 1. [1568. Minimum Number of Days to Disconnect Island - Medium](1551-1600.md#1568-Minimum-Number-of-Days-to-Disconnect-Island---Medium)
 1. [1576. Replace All ?'s to Avoid Consecutive Repeating Characters - Easy](1551-1600.md#1576-replace-all-s-to-avoid-consecutive-repeating-characters---easy)
+1. [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers - Medium](1551-1600.md#1577-Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers---Medium)
 
 ## Hash
 
