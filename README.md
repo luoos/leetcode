@@ -120,6 +120,7 @@
 1. [543. Diameter of Binary Tree - Easy](501-550.md#543-Diameter-of-Binary-Tree---Easy)
 1. [863. All Nodes Distance K in Binary Tree - Medium](851-900.md#863-All-Nodes-Distance-K-in-Binary-Tree---Medium)
 1. [889. Construct Binary Tree from Preorder and Postorder Traversal - Medium](851-900#889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal---Medium)
+1. [951. Flip Equivalent Binary Trees - Medium](951-1000.md#951-Flip-Equivalent-Binary-Trees---Medium)
 1. [1376. Time Needed to Inform All Employees - Medium](1351-1400.md#1376-Time-Needed-to-Inform-All-Employees---Medium)
 1. [1569. Number of Ways to Reorder Array to Get Same BST - Hard](1551-1600.md#1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST---Hard)
 
