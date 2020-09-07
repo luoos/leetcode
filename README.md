@@ -69,6 +69,7 @@
 1. [221. Maximal Square - Medium](201-250.md#221-Maximal-Square---Medium)
 1. [337. House Robber III - Medium](301-350.md#337-House-Robber-III---Medium)
 1. [494. Target Sum - Medium](451-500.md#494-Target-Sum---Medium)
+1. [877. Stone Game - Medium](851-900.md#877-Stone-Game---Medium)
 1. [1048. Longest String Chain - Medium](1001-1050.md#1048-Longest-String-Chain---Medium)
 1. [1049. Last Stone Weight II - Medium](1001-1050.md#1049-Last-Stone-Weight-II---Medium)
 1. [1140. Stone Game II - Medium](1101-1150.md#1140-Stone-Game-II---Medium)
