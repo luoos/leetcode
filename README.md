@@ -102,6 +102,7 @@
 ## Linked List
 
 1. [143. Reorder List - Medium](101-150.md#143-Reorder-List---Medium)
+1. [148. Sort List - Medium](101-150.md#148-Sort-List---Medium)
 
 ## Tree
 
