@@ -71,6 +71,7 @@
 1. [494. Target Sum - Medium](451-500.md#494-Target-Sum---Medium)
 1. [1048. Longest String Chain - Medium](1001-1050.md#1048-Longest-String-Chain---Medium)
 1. [1049. Last Stone Weight II - Medium](1001-1050.md#1049-Last-Stone-Weight-II---Medium)
+1. [1140. Stone Game II - Medium](1101-1150.md#1140-Stone-Game-II---Medium)
 
 ## Binary Search
 
