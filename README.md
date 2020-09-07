@@ -7,7 +7,7 @@
 1. [79. Word Search - Medium](51-100.md#79-Word-Search---Medium)
 1. [139. Word Break - Medium](101-150.md#139-word-break---medium)
 1. [329. Longest Increasing Path in a Matrix - Hard](301-350.md#329-Longest-Increasing-Path-in-a-Matrix---Hard)
-1. [375. Guess Number Higher or Lower II - Medium](351-400.md#375-Guess-Number-Higher-or-Lower-II-Medium)
+1. [375. Guess Number Higher or Lower II - Medium](351-400.md#375-Guess-Number-Higher-or-Lower-II---Medium)
 
 ## Breadth First Search
 
@@ -37,7 +37,7 @@
 1. [844. Backspace String Compare - Easy](801-850.md#844-Backspace-String-Compare---Easy)
 1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights---Medium)
 1. [1031. Maximum Sum of Two Non-Overlapping Subarrays - Medium](1001-1050.md#1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays---Medium)
-1. [1060. Missing Element in Sorted Array - Medium](1051-1100.md#1060-Missing-Element-in-Sorted-Array-Medium)
+1. [1060. Missing Element in Sorted Array - Medium](1051-1100.md#1060-Missing-Element-in-Sorted-Array---Medium)
 1. [1296. Divide Array in Sets of K Consecutive Numbers - Medium](1251-1300.md#1296-Divide-Array-in-Sets-of-K-Consecutive-Numbers---Medium)
 1. [1423. Maximum Points You Can Obtain from Cards - Medium](1401-1450.md#1423-Maximum-Points-You-Can-Obtain-from-Cards---Medium)
 1. [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum - Medium](1451-1500.md#1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum---Medium)
@@ -123,6 +123,7 @@
 1. [236. Lowest Common Ancestor of a Binary Tree - Medium](201-250.md#236-Lowest-Common-Ancestor-of-a-Binary-Tree---Medium)
 1. [297. Serialize and Deserialize Binary Tree - Hard](251-300.md#297-Serialize-and-Deserialize-Binary-Tree---Hard)
 1. [543. Diameter of Binary Tree - Easy](501-550.md#543-Diameter-of-Binary-Tree---Easy)
+1. [652. Find Duplicate Subtrees - Medium](651-700.md#652-Find-Duplicate-Subtrees---Medium)
 1. [863. All Nodes Distance K in Binary Tree - Medium](851-900.md#863-All-Nodes-Distance-K-in-Binary-Tree---Medium)
 1. [889. Construct Binary Tree from Preorder and Postorder Traversal - Medium](851-900#889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal---Medium)
 1. [951. Flip Equivalent Binary Trees - Medium](951-1000.md#951-Flip-Equivalent-Binary-Trees---Medium)
