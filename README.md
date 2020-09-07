@@ -34,6 +34,7 @@
 1. [767. Reorganize String - Medium](751-800.md#767-Reorganize-String---Medium)
 1. [792. Number of Matching Subsequences - Medium](751-800.md#792-Number-of-Matching-Subsequences---Medium)
 1. [809. Expressive Words - Medium](801-850.md#809-Expressive-Words---Medium)
+1. [833. Find And Replace in String - Medium](801-850.md#833-Find-And-Replace-in-String---Medium)
 1. [844. Backspace String Compare - Easy](801-850.md#844-Backspace-String-Compare---Easy)
 1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights---Medium)
 1. [1031. Maximum Sum of Two Non-Overlapping Subarrays - Medium](1001-1050.md#1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays---Medium)
