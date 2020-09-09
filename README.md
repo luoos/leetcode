@@ -153,3 +153,7 @@
 ## Minimax
 
 1. [843. Guess the Word - Hard](801-850.md#843-Guess-the-Word---Hard)
+
+## Divide and Conquer
+
+1. [241. Different Ways to Add Parentheses - Medium](201-250.md#241-Different-Ways-to-Add-Parentheses---Medium)
