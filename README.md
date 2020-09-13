@@ -90,6 +90,7 @@
 1. [358. Rearrange String k Distance Apart - Hard](351-400.md#358-Rearrange-String-k-Distance-Apart---Hard)
 1. [621. Task Scheduler - Medium](601-650.md#621-Task-Scheduler---Medium)
 1. [692. Top K Frequent Words - Medium](651-700.md#692-Top-K-Frequent-Words---Medium)
+1. [1584. Min Cost to Connect All Points - Medium](1551-1600.md#1584-Min-Cost-to-Connect-All-Points---Medium)
 
 ## Stack
 
