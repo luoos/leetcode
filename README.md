@@ -37,6 +37,7 @@
 1. [833. Find And Replace in String - Medium](801-850.md#833-Find-And-Replace-in-String---Medium)
 1. [844. Backspace String Compare - Easy](801-850.md#844-Backspace-String-Compare---Easy)
 1. [846. Hand of Straights - Medium](801-850.md#846-Hand-of-Straights---Medium)
+1. [953. Verifying an Alien Dictionary - Easy](951-1000.md#953-Verifying-an-Alien-Dictionary---Easy)
 1. [1031. Maximum Sum of Two Non-Overlapping Subarrays - Medium](1001-1050.md#1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays---Medium)
 1. [1060. Missing Element in Sorted Array - Medium](1051-1100.md#1060-Missing-Element-in-Sorted-Array---Medium)
 1. [1296. Divide Array in Sets of K Consecutive Numbers - Medium](1251-1300.md#1296-Divide-Array-in-Sets-of-K-Consecutive-Numbers---Medium)
