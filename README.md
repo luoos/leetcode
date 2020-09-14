@@ -107,6 +107,7 @@
 
 ## Linked List
 
+1. [23. Merge k Sorted Lists - Hard](1-50.md#23-Merge-k-Sorted-Lists---Hard)
 1. [143. Reorder List - Medium](101-150.md#143-Reorder-List---Medium)
 1. [148. Sort List - Medium](101-150.md#148-Sort-List---Medium)
 
