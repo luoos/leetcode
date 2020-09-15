@@ -20,6 +20,7 @@
 1. [15. 3Sum - Medium](1-50.md#15-3Sum---Medium)
 1. [16. 3Sum Closest - Medium](1-50.md#16-3Sum-Closest---Medium)
 1. [31. Next Permutation - Medium](1-50.md#31-Next-Permutation---Medium)
+1. [42. Trapping Rain Water - Hard](1-50.md#42-Trapping-Rain-Water---Hard)
 1. [56. Merge Intervals - Medium](51-100.md#56-Merge-Intervals---Medium)
 1. [57. Insert Interval - Hard](51-100.md#57-Insert-Interval---Hard)
 1. [238. Product of Array Except Self - Medium](201-250.md#238-Product-of-Array-Except-Self---Medium)
