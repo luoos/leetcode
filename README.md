@@ -56,6 +56,7 @@
 1. [1578. Minimum Deletion Cost to Avoid Repeating Letters - Medium](1551-1600.md#1578-Minimum-Deletion-Cost-to-Avoid-Repeating-Letters---Medium)
 1. [1582. Special Positions in a Binary Matrix - Easy](1551-1600.md#1582-Special-Positions-in-a-Binary-Matrix---Easy)
 1. [1583. Count Unhappy Friends - Medium](1551-1600.md#1583-Count-Unhappy-Friends---Medium)
+1. [1592. Rearrange Spaces Between Words - Easy](1551-1600.md#1592-Rearrange-Spaces-Between-Words---Easy)
 
 ## Hash
 
