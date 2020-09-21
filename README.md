@@ -9,6 +9,7 @@
 1. [329. Longest Increasing Path in a Matrix - Hard](301-350.md#329-Longest-Increasing-Path-in-a-Matrix---Hard)
 1. [375. Guess Number Higher or Lower II - Medium](351-400.md#375-Guess-Number-Higher-or-Lower-II---Medium)
 1. [465. Optimal Account Balancing - Hard](451-500.md#465-Optimal-Account-Balancing---Hard)
+1. [1593. Split a String Into the Max Number of Unique Substrings - Medium](1551-1600.md#1593-Split-a-String-Into-the-Max-Number-of-Unique-Substrings---Medium)
 
 ## Breadth First Search
 
