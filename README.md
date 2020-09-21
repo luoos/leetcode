@@ -83,6 +83,7 @@
 1. [1048. Longest String Chain - Medium](1001-1050.md#1048-Longest-String-Chain---Medium)
 1. [1049. Last Stone Weight II - Medium](1001-1050.md#1049-Last-Stone-Weight-II---Medium)
 1. [1140. Stone Game II - Medium](1101-1150.md#1140-Stone-Game-II---Medium)
+1. [1594. Maximum Non Negative Product in a Matrix - Medium](1551-1600.md#1594-Maximum-Non-Negative-Product-in-a-Matrix---Medium)
 
 ## Binary Search
 
