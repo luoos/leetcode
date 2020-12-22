@@ -128,6 +128,7 @@
 1. [99. Recover Binary Search Tree - Hard](51-100.md#99-Recover-Binary-Search-Tree---Hard)
 1. [105. Construct Binary Tree from Preorder and Inorder Traversal - Medium](101-150.md#105-Construct-Binary-Tree-from-Preorder-and-Inorder--Traversal---Medium)
 1. [106. Construct Binary Tree from Inorder and Postorder Traversal - Medium](101-150.md#106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal---Medium)
+1. [110. Balanced Binary Tree - Easy](101-150.md#110-Balanced-Binary-Tree---Easy)
 1. [117. Populating Next Right Pointers in Each Node II - Medium](101-150.md#117-Populating-Next-Right-Pointers-in-Each-Node-II---Medium)
 1. [124. Binary Tree Maximum Path Sum - Hard](101-150.md#124-Binary-Tree-Maximum-Path-Sum---hard)
 1. [129. Sum Root to Leaf Numbers - Medium](101-150.md#129-Sum-Root-to-Leaf-Numbers---Medium)
