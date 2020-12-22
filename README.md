@@ -143,6 +143,7 @@
 1. [951. Flip Equivalent Binary Trees - Medium](951-1000.md#951-Flip-Equivalent-Binary-Trees---Medium)
 1. [1376. Time Needed to Inform All Employees - Medium](1351-1400.md#1376-Time-Needed-to-Inform-All-Employees---Medium)
 1. [1569. Number of Ways to Reorder Array to Get Same BST - Hard](1551-1600.md#1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST---Hard)
+1. [1602. Find Nearest Right Node in Binary Tree - Medium](1601-1650.md#1602-Find-Nearest-Right-Node-in-Binary-Tree---Medium)
 
 ## Graph
 
